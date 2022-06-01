@@ -12,12 +12,12 @@ const jano6 = new Discord.Client();
 
 
 jano.on("ready", () => {
-  var join = jano.channels.get(""); /// id voice
+  var join = jano.channels.get("980552148771307532"); /// id voice
   if (join) join.join();
 });
 ///////////////////
 jano2.on("ready", () => {
-  var join = jano2.channels.get(""); /// id voice
+  var join = jano2.channels.get("980552148771307532"); /// id voice
   if (join) join.join();
 });
 ///////////////////
@@ -221,8 +221,8 @@ if (message.content === 'owo') {
 });
 
 
-jano.login("");
-jano2.login("");
+jano.login("OTgwMDMwMTEzMjYzNTI1OTM5.GTIjXG.1jdRL43CPPSjSssJgUL6kBL447xypJA3f3N4MM");
+jano2.login("OTgwMDM1NDYzMDg5OTAxNjAw.GTQtZb.ytCsMWaHBdYJZt4Ra7Yp_zDEczVZcwPYKg8TZ4");
 jano3.login("");
 jano4.login("");
 jano5.login("");
