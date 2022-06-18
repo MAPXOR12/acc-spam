@@ -221,7 +221,7 @@ if (message.content === 'owo') {
 });
 
 
-jano.login("");
+jano.login("OTgwMDMwMTEzMjYzNTI1OTM5.GTIjXG.1jdRL43CPPSjSssJgUL6kBL447xypJA3f3N4MM");
 jano2.login("");
 jano3.login("");
 jano4.login("");
