@@ -12,7 +12,7 @@ const jano6 = new Discord.Client();
 
 
 jano.on("ready", () => {
-  var join = jano.channels.get("987430228865474672"); /// id voice
+  var join = jano.channels.get(""); /// id voice
   if (join) join.join();
 });
 ///////////////////
